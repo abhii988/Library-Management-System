@@ -1,0 +1,3 @@
+B1,Harry Potter,JK Rowling,29,$2.0
+B2,Start With Why,Simon Sinek,8,$1.5
+B3,Learning Python,David Ascher,20,$1.5
